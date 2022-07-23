@@ -1,0 +1,22 @@
+{
+  "name": "super-gobblet-online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "dev": "concurrently \"cd client && expo start\" \"cd server && npm run dev\"",
+    "dev:client": "cd client && expo start",
+    "dev:server": "cd server && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nktfh100/super-gobblet-online.git"
+  },
+  "author": "nktfh100 <me@nktfh100.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nktfh100/super-gobblet-online/issues"
+  },
+  "homepage": "https://github.com/nktfh100/super-gobblet-online#readme",
+  "dependencies": {}
+}
