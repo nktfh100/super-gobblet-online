@@ -1,7 +1,7 @@
 
 # Super Gobblet Online
 
-A polished high quality multiplayer game like tic tac toe, but with a twist.
+A Tic tac toe style multiplayer app I made for fun, as well as to gain more experience in react native and backend development.
 
 # Google play link
 
