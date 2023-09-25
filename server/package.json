@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "pm2 start ecosystem.config.json --no-daemon",
+    "start": "node ./src/index.js",
     "dev": "nodemon ./src/index.js"
   },
   "author": "nktfh100",
@@ -17,8 +17,7 @@
     "express-mongo-sanitize": "^2.2.0",
     "helmet": "^5.1.0",
     "logger": "0.0.1",
-    "mongoose": "^6.4.2",
-    "pm2": "^5.2.0",
+    "mongoose": "^6.12.0",
     "redis": "^4.2.0",
     "simple-node-logger": "^21.8.12",
     "socket.io": "^4.5.1",
