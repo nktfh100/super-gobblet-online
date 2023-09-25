@@ -3,9 +3,9 @@
 
 A Tic tac toe style multiplayer app I made for fun, as well as to gain more experience in react native and backend development.
 
-# Google play link
+# Media
 
-[Google Play](https://play.google.com/store/apps/details?id=com.nktfh100.supergobbletonline "Google Play")
+![](assets/showcase.jpg)
 
 # Technologies
 
