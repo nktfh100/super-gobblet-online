@@ -26,7 +26,7 @@ export default {
 			// "googleMobileAdsAppId": process.env.ADS_APP_ID
 		},
 		package: "com.nktfh100.supergobbletonline",
-		versionCode: 5,
+		versionCode: 6,
 	},
 	web: {
 		favicon: "./assets/favicon.png",
