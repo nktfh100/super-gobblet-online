@@ -6,7 +6,7 @@ import ScreenContainer from "../components/ScreenContainer";
 import socket from "../services/socket";
 import { useSoundsStore } from "../store/useSoundsStore";
 import { useUsernameStore } from "../store/useUsernameStore";
-import { useCooldown } from 'use-cooldown';
+import useCooldown from '../hooks/useCooldown';
 
 export default function EnterCodeScreen() {
     const { height, width } = useWindowDimensions();

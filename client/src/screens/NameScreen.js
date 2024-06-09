@@ -6,7 +6,7 @@ import { useUsernameStore } from "../store/useUsernameStore";
 import { useNavigation } from "@react-navigation/native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { useSoundsStore } from "../store/useSoundsStore";
-import { useCooldown } from "use-cooldown";
+import useCooldown from '../hooks/useCooldown';
 import { useWindowDimensions } from 'react-native';
 
 export default function NameScreen() {

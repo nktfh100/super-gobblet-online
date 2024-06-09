@@ -5,7 +5,7 @@ import socket from '../services/socket';
 import { showErrorAlert } from '../utils/utils';
 import { useSoundsStore } from "../store/useSoundsStore";
 import { showAd } from '../services/ads';
-import { useCooldown } from 'use-cooldown';
+import useCooldown from '../hooks/useCooldown';
 
 export default function HomeScreen() {
     const { height, width } = useWindowDimensions();

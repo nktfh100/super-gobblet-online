@@ -6,7 +6,7 @@ import { useRoomStore } from "../store/useRoomStore";
 import { useSoundsStore } from "../store/useSoundsStore";
 import { showAd } from "../services/ads";
 import MyAppText from "./MyAppText";
-import { useCooldown } from "use-cooldown";
+import useCooldown from "../hooks/useCooldown";
 
 export default function MyModal({ visible, type, backgroundImg, onCloseRequest, text }) {
     const navigation = useNavigation();
