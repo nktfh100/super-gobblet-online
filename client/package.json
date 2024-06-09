@@ -16,7 +16,6 @@
     "@react-navigation/native": "^6.0.10",
     "@react-navigation/native-stack": "^6.6.2",
     "expo": "^51.0.11",
-    "expo-ads-admob": "~13.0.0",
     "expo-av": "~11.2.3",
     "expo-device": "~4.2.0",
     "expo-splash-screen": "~0.15.1",
