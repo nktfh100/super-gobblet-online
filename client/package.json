@@ -1,6 +1,6 @@
 {
   "name": "super-gobblet-online",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",

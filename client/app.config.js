@@ -1,7 +1,7 @@
 export default {
 	name: "Super Gobblet Online",
 	slug: "super-gobblet-online",
-	version: "1.0.4",
+	version: "1.0.5",
 	orientation: "portrait",
 	icon: "./assets/icon.png",
 	userInterfaceStyle: "light",
@@ -26,7 +26,7 @@ export default {
 			// "googleMobileAdsAppId": process.env.ADS_APP_ID
 		},
 		package: "com.nktfh100.supergobbletonline",
-		versionCode: 6,
+		versionCode: 7,
 	},
 	web: {
 		favicon: "./assets/favicon.png",
